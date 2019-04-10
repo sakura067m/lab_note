@@ -13,11 +13,12 @@ Some awesome images here.
 
 TOC, lof, lot
 ----
-|||
-|:-:|:-----------------:|
-|TOC|Table Of Contents|
-|lof|list of tables|
-|lot|list of figures|
+
+| short | long |
+|---|-------------------|
+| TOC | Table Of Contents |
+| lof | list of tables |
+| lot | list of figures |
 
 
 Introduction
