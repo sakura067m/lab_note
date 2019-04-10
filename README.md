@@ -3,109 +3,33 @@ Project Name
 Some short description here.
 Some awesome images here.
 
-```mermaid
-gantt
-    title keep your schedule
-    dateFormat Y-M-D
-    axisFormat %m
-%-----------------------
-
-    section 学期
-        前期  : 2019-4-9, 2019-8-9
-        夏季休暇    : 2019-9-30
-        冬季休暇    : 2019-12-26, 2020-1-6
-        後期  : 2019-10-1, 2020-2-18
-        春季休暇    : 2020-2-1, 2020-3-31
-
-%-----------------------
-
-    section B4
-        kick-off  : 2019-4-11, 2019-4-12
-        中間発表1    : 2019-6-25, 2019-7-1
-        ゼミ  : 2019-4-1, 2019-7-31
-        院試勉強    : 2019-8-23
-        院試  : 2019-8-23, 2019-8-25
-        中間発表2    : 2019-11-25, 2019-12-1
-        卒論  : 2019-9-1, 2020-2-1
-
-%-----------------------
-
-    section M1
-        kick-off  : 2019-4-11, 2019-4-12
-        中間発表1    : 2019-6-25, 2019-7-1
-        演習    : 2019-11-25, 2019-12-1
-        ゼミ  : 2019-4-1, 2020-2-1
-
-%-----------------------
-
-    section M2
-        kick-off  : 2019-4-11, 2019-4-12
-        講究  : 2019-6-25, 2019-7-1
-        中間発表2    : 2019-11-25, 2019-12-1
-        就活  : 2019-4-1, 2019-7-31
-        修論  : 2020-2-1
+[rendered ver.](https://sakura067m.github.io/lab_note/)
+* make some link like `https://<userid>.github.io/lab_note/`
 
 
-```
-
-TOC, lof, lot
+Description
 ----
-|||
-|:-:|:-----------------:|
-|TOC|Table Of Contents|
-|lof|list of tables|
-|lot|list of figures|
+summarize
+
+***demo***
 
 
-Introduction
+Features
 ----
-### preamble
-You know what?
+list of contents.
 
-### statment of the problem
-Here's something......
+Furthermore, link or something.
 
-### VS / related study
-Previous study shows something:)
 
-### TL;DR
-We did something!
-
-Preliminary
+VS / LiteratureReview
 ----
-When you need to explain something.
+compare with something.
 
-Body Chapters(Plural)
+
+Author
 ----
-Each of the chapters contains bellow.
+contact information if you publish
 
-### Data and Methods
-What you use.
-
-### Results
-What you get.
-
-### Discussion
-What you say.
-
-Conclusion
+License
 ----
-Summarize your opinion.
-
-Acknowledgment
-----
-This is the only place of you.
-
-Reference
-----
-DO EXACTLY AS YOUR SUPERVISOR TELL/TOLD YOU!
-
-
-Appendix
-----
-If you have something that help reading.
-
-
-Index
-----
-When you have done everything and still have some time left.
+some license.
