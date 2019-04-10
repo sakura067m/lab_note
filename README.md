@@ -3,7 +3,7 @@ Project Name
 Some short description here.
 Some awesome images here.
 
-```mermaid
+<div class="mermaid">
 gantt
     title keep your schedule
     dateFormat Y-M-D
@@ -46,7 +46,11 @@ gantt
         修論  : 2020-2-1
 
 
-```
+</div>
+<script src="assets/js/mermaid.min.js"></script>
+<script>
+    mermaid.initialize({startOnLoad:True});
+</script>
 
 TOC, lof, lot
 ----
