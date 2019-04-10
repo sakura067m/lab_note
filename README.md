@@ -47,7 +47,7 @@ gantt
 
 
 </div>
-<script src="assets/js/mermaid.min.js"></script>
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
 <script>
     mermaid.initialize({startOnLoad:True});
 </script>
