@@ -17,8 +17,8 @@ TOC, lof, lot
 | short | long |
 |---|-------------------|
 | TOC | Table Of Contents |
-| lof | list of tables |
-| lot | list of figures |
+| lof | list of figures |
+| lot | list of tables |
 
 
 Introduction
