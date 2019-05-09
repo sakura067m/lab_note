@@ -1,0 +1,19 @@
+title: "進捗報告"
+author: "your name"
+
+indent: true
+numbersections: true
+output:
+    pdf_document:
+        latex_engine: lualatex
+    header-includes:
+        - \setlength{\fullwidth}{\textwidth}
+        - \usepackage{multirow}
+papersize: A4
+fontsize: 11pt
+geometry: "left=27.27mm,right=27.27mm,top=0mm,bottom=9.09mm, includehead, includefoot"
+documentclass: ltjsarticle
+mainfont: IPAPMincho
+sansfont: IPAPGothic
+monofont: IPAGothic
+reference-section-title: 参考文献
